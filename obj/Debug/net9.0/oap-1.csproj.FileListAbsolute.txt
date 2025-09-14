@@ -1,0 +1,5 @@
+C:\Users\dmitriy\Desktop\lambda_school\ooap-1\oap-1\obj\Debug\net9.0\oap-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitriy\Desktop\lambda_school\ooap-1\oap-1\obj\Debug\net9.0\oap-1.AssemblyInfoInputs.cache
+C:\Users\dmitriy\Desktop\lambda_school\ooap-1\oap-1\obj\Debug\net9.0\oap-1.AssemblyInfo.cs
+C:\Users\dmitriy\Desktop\lambda_school\ooap-1\oap-1\obj\Debug\net9.0\oap-1.csproj.CoreCompileInputs.cache
+C:\Users\dmitriy\Desktop\lambda_school\ooap-1\oap-1\obj\Debug\net9.0\oap-1.sourcelink.json
